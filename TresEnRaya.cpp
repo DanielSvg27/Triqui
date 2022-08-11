@@ -18,7 +18,7 @@ int main(){
 	triqui [2][0] = '7';
 	triqui [2][1] = '8';
 	triqui [2][2] = '9';
-	
+	Hola uwu
 	cout <<"Bienvenido al juego del TRES EN RAYA"<< endl;
 	
 	cout <<"Quiere empezar el juego? 0 para si o 1 para no"<< endl;
